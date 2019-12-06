@@ -28,6 +28,14 @@ This project also includes the following YAML files:
 
 ## Getting Started
 
+### Prerequisites
+
+1. Azure CLI (bash preferred) 
+    * If using WSL (Windows Subsystem for Linux) use `curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash`
+1. An Active Azure Account
+    * If you have MSDN Subscription benefits click [here](http://go.microsoft.com/fwlink/?LinkId=307137&campaign=o~msft~devprogram~service_attach&workflowID=devprogram)
+    * Otherwise get started [here](https://azure.microsoft.com/en-us/free/)
+    
 ### Companion articles
 
 This project is intended for use with the following articles on [docs.microsoft.com][docs]:
